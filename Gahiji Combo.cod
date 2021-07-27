@@ -18,7 +18,6 @@
         <card number="1" name="Congregate"/>
         <card number="1" name="Respite"/>
         <card number="1" name="Riot Control"/>
-        <card number="1" name="Samite Ministration"/>
         <card number="1" name="Authority of the Consuls"/>
         <card number="1" name="Crawlspace"/>
         <card number="1" name="Norn's Annex"/>
@@ -63,7 +62,6 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Krosan Grip"/>
         <card number="1" name="Well of Lost Dreams"/>
-        <card number="1" name="Skullclamp"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Momentous Fall"/>
         <card number="1" name="Thrill of Possibility"/>
@@ -91,6 +89,8 @@
         <card number="5" name="Mountain"/>
         <card number="5" name="Forest"/>
         <card number="4" name="Plains"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Defense of the Heart"/>
     </zone>
     <zone name="side">
         <card number="1" name="Gahiji, Honored One"/>
