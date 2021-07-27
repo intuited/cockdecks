@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gahiji Combo</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Repercussion"/>
+        <card number="1" name="Tamanoa"/>
+        <card number="1" name="Burning Sands"/>
+        <card number="1" name="Mob Rule"/>
+        <card number="1" name="Auriok Champion"/>
+        <card number="1" name="Boros Reckoner"/>
+        <card number="1" name="Arcbond"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Chain Reaction"/>
+        <card number="1" name="Starstorm"/>
+        <card number="1" name="Blunt the Assault"/>
+        <card number="1" name="Congregate"/>
+        <card number="1" name="Respite"/>
+        <card number="1" name="Riot Control"/>
+        <card number="1" name="Samite Ministration"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Crawlspace"/>
+        <card number="1" name="Norn's Annex"/>
+        <card number="1" name="Smoke"/>
+        <card number="1" name="Dueling Grounds"/>
+        <card number="1" name="Aurification"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Curse of Opulence"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Talisman of Impulse"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Electrodominance"/>
+        <card number="1" name="Eladamri's Call"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Idyllic Tutor"/>
+        <card number="1" name="Acorn Catapult"/>
+        <card number="1" name="Humble Defector"/>
+        <card number="1" name="Hungry Lynx"/>
+        <card number="1" name="Hunted Dragon"/>
+        <card number="1" name="Hunted Troll"/>
+        <card number="1" name="Starke of Rath"/>
+        <card number="1" name="Varchild's War-Riders"/>
+        <card number="1" name="Alliance of Arms"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Pyroblast"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Boros Charm"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Tibalt's Trickery"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Momentous Fall"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Wheel of Misfortune"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Rugged Prairie"/>
+        <card number="1" name="Raging Ravine"/>
+        <card number="5" name="Mountain"/>
+        <card number="5" name="Forest"/>
+        <card number="4" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Gahiji, Honored One"/>
+    </zone>
+</cockatrice_deck>
