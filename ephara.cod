@@ -3,9 +3,7 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Negate"/>
         <card number="1" name="Blind Obedience"/>
-        <card number="1" name="Adanto Vanguard"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Fumigate"/>
@@ -19,7 +17,6 @@
         <card number="1" name="Time Wipe"/>
         <card number="1" name="Heliod, God of the Sun"/>
         <card number="1" name="Legacy's Allure"/>
-        <card number="1" name="Draining Whelk"/>
         <card number="1" name="Darksteel Mutation"/>
         <card number="1" name="Whitemane Lion"/>
         <card number="1" name="Deputy of Acquittals"/>
@@ -30,7 +27,6 @@
         <card number="1" name="Planar Collapse"/>
         <card number="1" name="Myth Realized"/>
         <card number="1" name="Fieldmist Borderpost"/>
-        <card number="1" name="Avacyn, Angel of Hope"/>
         <card number="1" name="Telepathy"/>
         <card number="1" name="Aura of Silence"/>
         <card number="1" name="Render Silent"/>
@@ -45,7 +41,6 @@
         <card number="1" name="Thassa, God of the Sea"/>
         <card number="1" name="Merfolk Trickster"/>
         <card number="1" name="Equinox"/>
-        <card number="1" name="Mark of Eviction"/>
         <card number="1" name="Reparations"/>
         <card number="1" name="Village Bell-Ringer"/>
         <card number="1" name="Rebuff the Wicked"/>
@@ -53,7 +48,6 @@
         <card number="1" name="Stunt Double"/>
         <card number="1" name="Snapcaster Mage"/>
         <card number="1" name="Ever-Watching Threshold"/>
-        <card number="1" name="Spell Swindle"/>
         <card number="1" name="Rout"/>
         <card number="1" name="Kefnet the Mindful"/>
         <card number="1" name="Arcane Signet"/>
@@ -63,31 +57,39 @@
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Oketra the True"/>
         <card number="1" name="Irrigated Farmland"/>
-        <card number="1" name="Sejiri Refuge"/>
-        <card number="1" name="Bad River"/>
-        <card number="1" name="Flood Plain"/>
-        <card number="1" name="Grasslands"/>
-        <card number="1" name="Tranquil Cove"/>
-        <card number="1" name="Temple of Enlightenment"/>
-        <card number="1" name="Azorius Guildgate"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Port Town"/>
         <card number="1" name="Nimbus Maze"/>
-        <card number="1" name="Springjack Pasture"/>
         <card number="1" name="Westvale Abbey"/>
-        <card number="1" name="Moorland Haunt"/>
         <card number="1" name="Nykthos, Shrine to Nyx"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Glacial Fortress"/>
         <card number="1" name="Skycloud Expanse"/>
-        <card number="1" name="Grand Coliseum"/>
         <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Forbidden Orchard"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Kjeldoran Outpost"/>
-        <card number="7" name="Island"/>
-        <card number="7" name="Plains"/>
+        <card number="8" name="Island"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Hengegate Pathway"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Moderation"/>
+        <card number="1" name="Ardent Plea"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Niambi, Esteemed Speaker"/>
+        <card number="1" name="Spell Queller"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ephara, God of the Polis"/>
     </zone>
 </cockatrice_deck>
