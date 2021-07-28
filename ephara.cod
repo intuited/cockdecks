@@ -21,7 +21,6 @@
         <card number="1" name="Whitemane Lion"/>
         <card number="1" name="Deputy of Acquittals"/>
         <card number="1" name="Dispel"/>
-        <card number="1" name="Ethereal Armor"/>
         <card number="1" name="Fell the Mighty"/>
         <card number="1" name="Muddle the Mixture"/>
         <card number="1" name="Planar Collapse"/>
@@ -38,9 +37,7 @@
         <card number="1" name="Lilting Refrain"/>
         <card number="1" name="Land Tax"/>
         <card number="1" name="Shield of the Righteous"/>
-        <card number="1" name="Thassa, God of the Sea"/>
         <card number="1" name="Merfolk Trickster"/>
-        <card number="1" name="Equinox"/>
         <card number="1" name="Reparations"/>
         <card number="1" name="Village Bell-Ringer"/>
         <card number="1" name="Rebuff the Wicked"/>
@@ -88,6 +85,9 @@
         <card number="1" name="Negate"/>
         <card number="1" name="Niambi, Esteemed Speaker"/>
         <card number="1" name="Spell Queller"/>
+        <card number="1" name="Deafening Silence"/>
+        <card number="1" name="Paladin Class"/>
+        <card number="1" name="Wizard Class"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ephara, God of the Polis"/>
