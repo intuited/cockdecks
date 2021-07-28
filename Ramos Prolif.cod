@@ -17,7 +17,6 @@
         <card number="1" name="Sword of Truth and Justice"/>
         <card number="1" name="Contagion Engine"/>
         <card number="1" name="Contagion Clasp"/>
-        <card number="1" name="All Is Dust"/>
         <card number="1" name="Darksteel Reactor"/>
         <card number="1" name="Grimoire of the Dead"/>
         <card number="1" name="Lux Cannon"/>
@@ -64,7 +63,6 @@
         <card number="1" name="Dismantle"/>
         <card number="1" name="As Foretold"/>
         <card number="1" name="Black Market"/>
-        <card number="1" name="Path to Exile"/>
         <card number="1" name="Shrine of the Forsaken Gods"/>
         <card number="1" name="Emergence Zone"/>
         <card number="1" name="Karn's Bastion"/>
@@ -102,10 +100,14 @@
         <card number="1" name="Veil of Summer"/>
         <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Boros Charm"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Kenrith, the Returned King"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ramos, Dragon Engine"/>
         <card number="1" name="Storm the Vault"/>
         <card number="1" name="Godhead of Awe"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="All Is Dust"/>
     </zone>
 </cockatrice_deck>
