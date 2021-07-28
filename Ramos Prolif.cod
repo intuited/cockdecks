@@ -60,12 +60,10 @@
         <card number="1" name="Hardened Scales"/>
         <card number="1" name="Pir, Imaginative Rascal"/>
         <card number="1" name="Deepglow Skate"/>
-        <card number="1" name="Godhead of Awe"/>
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Dismantle"/>
         <card number="1" name="As Foretold"/>
         <card number="1" name="Black Market"/>
-        <card number="1" name="Storm the Vault"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Shrine of the Forsaken Gods"/>
         <card number="1" name="Emergence Zone"/>
@@ -102,8 +100,12 @@
         <card number="1" name="Vivid Meadow"/>
         <card number="1" name="Thespian's Stage"/>
         <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Boros Charm"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ramos, Dragon Engine"/>
+        <card number="1" name="Storm the Vault"/>
+        <card number="1" name="Godhead of Awe"/>
     </zone>
 </cockatrice_deck>
