@@ -57,7 +57,6 @@
         <card number="1" name="Approach of the Second Sun"/>
         <card number="1" name="Near-Death Experience"/>
         <card number="1" name="Exsanguinate"/>
-        <card number="1" name="Torment of Hailfire"/>
         <card number="1" name="Mortify"/>
         <card number="1" name="False Cure"/>
         <card number="1" name="Swords to Plowshares"/>
@@ -81,7 +80,7 @@
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Silence"/>
         <card number="10" name="Snow-Covered Plains"/>
-        <card number="10" name="Snow-Covered Swamp"/>
+        <card number="11" name="Snow-Covered Swamp"/>
         <card number="1" name="Faceless Haven"/>
         <card number="1" name="Crypt Ghast"/>
     </zone>
