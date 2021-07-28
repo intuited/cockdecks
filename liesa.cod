@@ -77,10 +77,11 @@
         <card number="1" name="Vault of Champions"/>
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Brightclimb Pathway"/>
-        <card number="12" name="Swamp"/>
+        <card number="11" name="Swamp"/>
         <card number="11" name="Plains"/>
         <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Silence"/>
     </zone>
     <zone name="side">
         <card number="1" name="Liesa, Shroud of Dusk"/>
