@@ -22,7 +22,6 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Star Compass"/>
         <card number="1" name="Deadly Tempest"/>
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Damnation"/>
@@ -81,6 +80,7 @@
         <card number="12" name="Swamp"/>
         <card number="11" name="Plains"/>
         <card number="1" name="Blacksmith's Skill"/>
+        <card number="1" name="Chromatic Lantern"/>
     </zone>
     <zone name="side">
         <card number="1" name="Liesa, Shroud of Dusk"/>
