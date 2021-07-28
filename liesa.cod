@@ -8,7 +8,6 @@
         <card number="1" name="Vampiric Tutor"/>
         <card number="1" name="Scheming Symmetry"/>
         <card number="1" name="Diabolic Tutor"/>
-        <card number="1" name="Spoils of the Vault"/>
         <card number="1" name="Tainted Pact"/>
         <card number="1" name="Doomsday"/>
         <card number="1" name="Grim Tutor"/>
@@ -68,7 +67,6 @@
         <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Font of Agonies"/>
         <card number="1" name="Generous Gift"/>
-        <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Cabal Coffers"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" name="Castle Locthwain"/>
@@ -82,7 +80,8 @@
         <card number="1" name="Fetid Heath"/>
         <card number="1" name="Brightclimb Pathway"/>
         <card number="11" name="Swamp"/>
-        <card number="10" name="Plains"/>
+        <card number="11" name="Plains"/>
+        <card number="1" name="Blacksmith's Skill"/>
     </zone>
     <zone name="side">
         <card number="1" name="Liesa, Shroud of Dusk"/>
