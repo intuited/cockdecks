@@ -105,9 +105,5 @@
     </zone>
     <zone name="side">
         <card number="1" name="Ramos, Dragon Engine"/>
-        <card number="1" name="Storm the Vault"/>
-        <card number="1" name="Godhead of Awe"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="All Is Dust"/>
     </zone>
 </cockatrice_deck>
