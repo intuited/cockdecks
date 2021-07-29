@@ -4,9 +4,6 @@
     <comments></comments>
     <zone name="side">
         <card number="1" name="Alela, Artful Provocateur"/>
-        <card number="1" name="Opt"/>
-        <card number="1" name="Watery Grave"/>
-        <card number="1" name="Narset's Reversal"/>
     </zone>
     <zone name="main">
         <card number="1" name="Skullclamp"/>
@@ -59,7 +56,6 @@
         <card number="1" name="Phyrexian Altar"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Vedalken Orrery"/>
         <card number="1" name="Tormod's Crypt"/>
         <card number="1" name="Soul-Guide Lantern"/>
         <card number="1" name="Leyline of Anticipation"/>
@@ -69,7 +65,6 @@
         <card number="1" name="Shark Typhoon"/>
         <card number="1" name="Authority of the Consuls"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Grim Tutor"/>
         <card number="1" name="Night's Whisper"/>
@@ -98,5 +93,7 @@
         <card number="4" name="Island (b)"/>
         <card number="5" name="Plains"/>
         <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Traveler's Amulet"/>
     </zone>
 </cockatrice_deck>
