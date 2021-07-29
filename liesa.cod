@@ -14,7 +14,6 @@
         <card number="1" name="Expedition Map"/>
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Land Tax"/>
-        <card number="1" name="Recruiter of the Guard"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Orzhov Signet"/>
@@ -23,15 +22,11 @@
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Deadly Tempest"/>
-        <card number="1" name="Wrath of God"/>
-        <card number="1" name="Damnation"/>
         <card number="1" name="Fumigate"/>
         <card number="1" name="Decree of Pain"/>
         <card number="1" name="K'rrik, Son of Yawgmoth"/>
         <card number="1" name="Bolas's Citadel"/>
-        <card number="1" name="Bond of Agony"/>
         <card number="1" name="Adanto Vanguard"/>
-        <card number="1" name="Dark Confidant"/>
         <card number="1" name="Damnable Pact"/>
         <card number="1" name="Greed"/>
         <card number="1" name="Erebos, God of the Dead"/>
@@ -41,18 +36,13 @@
         <card number="1" name="Ad Nauseam"/>
         <card number="1" name="Twilight Prophet"/>
         <card number="1" name="Sign in Blood"/>
-        <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Arguel's Blood Fast"/>
-        <card number="1" name="Dawn of Hope"/>
         <card number="1" name="Dread Presence"/>
         <card number="1" name="Well of Lost Dreams"/>
-        <card number="1" name="Archfiend of Despair"/>
         <card number="1" name="Pestilence"/>
         <card number="1" name="Stunning Reversal"/>
         <card number="1" name="Angel's Grace"/>
         <card number="1" name="Angel of Grace"/>
-        <card number="1" name="Intervention Pact"/>
-        <card number="1" name="Platinum Angel"/>
         <card number="1" name="The Book of Exalted Deeds"/>
         <card number="1" name="Approach of the Second Sun"/>
         <card number="1" name="Near-Death Experience"/>
@@ -79,10 +69,22 @@
         <card number="1" name="Blacksmith's Skill"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Silence"/>
-        <card number="10" name="Snow-Covered Plains"/>
-        <card number="11" name="Snow-Covered Swamp"/>
+        <card number="9" name="Snow-Covered Plains"/>
+        <card number="10" name="Snow-Covered Swamp"/>
         <card number="1" name="Faceless Haven"/>
         <card number="1" name="Crypt Ghast"/>
+        <card number="1" name="Damn"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Sickening Dreams"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Athreos, Shroud-Veiled"/>
+        <card number="1" name="Debt to the Deathless"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Kambal, Consul of Allocation"/>
+        <card number="1" name="Bloodchief Ascension"/>
+        <card number="1" name="Underworld Dreams"/>
+        <card number="1" name="Snowfield Sinkhole"/>
     </zone>
     <zone name="side">
         <card number="1" name="Liesa, Shroud of Dusk"/>
