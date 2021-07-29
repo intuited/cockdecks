@@ -22,7 +22,6 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Anointed Procession"/>
         <card number="1" name="Bitterblossom"/>
         <card number="1" name="Etchings of the Chosen"/>
         <card number="1" name="Starnheim Courser"/>
@@ -38,10 +37,8 @@
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Arcane Denial"/>
-        <card number="1" name="Inkshield"/>
         <card number="1" name="Vanishing Verse"/>
         <card number="1" name="Saw It Coming"/>
-        <card number="1" name="Dance of the Manse"/>
         <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Fabricate"/>
         <card number="1" name="Ashnod's Altar"/>
@@ -91,9 +88,13 @@
         <card number="1" name="Tolaria West"/>
         <card number="4" name="Swamp"/>
         <card number="4" name="Island (b)"/>
-        <card number="5" name="Plains"/>
+        <card number="4" name="Plains"/>
         <card number="1" name="Psychosis Crawler"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Traveler's Amulet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="City of Brass"/>
     </zone>
 </cockatrice_deck>
