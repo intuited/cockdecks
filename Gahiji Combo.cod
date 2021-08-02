@@ -9,13 +9,11 @@
         <card number="1" name="Burning Sands"/>
         <card number="1" name="Mob Rule"/>
         <card number="1" name="Auriok Champion"/>
-        <card number="1" name="Boros Reckoner"/>
         <card number="1" name="Arcbond"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Chain Reaction"/>
         <card number="1" name="Starstorm"/>
         <card number="1" name="Blunt the Assault"/>
-        <card number="1" name="Congregate"/>
         <card number="1" name="Respite"/>
         <card number="1" name="Riot Control"/>
         <card number="1" name="Authority of the Consuls"/>
@@ -30,10 +28,8 @@
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Ashnod's Altar"/>
-        <card number="1" name="Mirari's Wake"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Skyclave Relic"/>
         <card number="1" name="Talisman of Unity"/>
         <card number="1" name="Talisman of Impulse"/>
         <card number="1" name="Boros Signet"/>
@@ -87,10 +83,15 @@
         <card number="1" name="Rugged Prairie"/>
         <card number="1" name="Raging Ravine"/>
         <card number="5" name="Mountain"/>
-        <card number="5" name="Forest"/>
+        <card number="4" name="Forest"/>
         <card number="4" name="Plains"/>
         <card number="1" name="Gamble"/>
         <card number="1" name="Defense of the Heart"/>
+        <card number="1" name="Underworld Breach"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Silence"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Mazemind Tome"/>
     </zone>
     <zone name="side">
         <card number="1" name="Gahiji, Honored One"/>
