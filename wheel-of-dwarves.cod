@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Mana Echoes"/>
+        <card number="1" name="Gauntlet of Might"/>
+        <card number="1" name="Extraplanar Lens"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Gauntlet of Power"/>
+        <card number="1" name="Mana Geyser"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Runaway Steam-Kin"/>
+        <card number="1" name="Wheel of Misfortune"/>
+        <card number="1" name="Wheel of Fate"/>
+        <card number="1" name="Chandra, Flamecaller"/>
+        <card number="1" name="Anje's Ravager"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Wheel of Fortune"/>
+        <card number="1" name="Neheb, Dreadhorde Champion"/>
+        <card number="1" name="Dragon Mage"/>
+        <card number="1" name="Fateful Showdown"/>
+        <card number="1" name="Reforge the Soul"/>
+        <card number="1" name="Cavalier of Flame"/>
+        <card number="1" name="Khorvath's Fury"/>
+        <card number="1" name="Runehorn Hellkite"/>
+        <card number="1" name="Rites of Initiation"/>
+        <card number="1" name="Hazoret the Fervent"/>
+        <card number="1" name="Firestorm"/>
+        <card number="1" name="Geth's Grimoire"/>
+        <card number="1" name="Glint-Horn Buccaneer"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Mirror March"/>
+        <card number="1" name="Kindred Charge"/>
+        <card number="7" name="Seven Dwarves"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Flameshadow Conjuring"/>
+        <card number="1" name="Dwarven Recruiter"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
+        <card number="1" name="Ghired's Belligerence"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Needle Drop"/>
+        <card number="1" name="Avacyn's Judgment"/>
+        <card number="1" name="Violent Eruption"/>
+        <card number="1" name="Blindblast"/>
+        <card number="1" name="Electrodominance"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Bolt Bend"/>
+        <card number="1" name="Wild Ricochet"/>
+        <card number="1" name="Fury Storm"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Purphoros, God of the Forge"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Elixir of Immortality"/>
+        <card number="1" name="Dwarven Mine"/>
+        <card number="1" name="Castle Embereth"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="29" name="Mountain"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Underworld Breach"/>
+        <card number="1" name="Ruby Medallion"/>
+        <card number="1" name="Red Elemental Blast"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+    </zone>
+</cockatrice_deck>
