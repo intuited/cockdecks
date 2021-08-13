@@ -4,6 +4,7 @@
     <comments></comments>
     <zone name="side">
         <card number="1" name="Rielle, the Everwise"/>
+        <card number="1" name="Dangerous Wager"/>
     </zone>
     <zone name="main">
         <card number="1" name="Sorcerer Class"/>
@@ -14,7 +15,6 @@
         <card number="1" name="Careful Study"/>
         <card number="1" name="Turbulent Dreams"/>
         <card number="1" name="Burning Inquiry"/>
-        <card number="1" name="Cathartic Reunion"/>
         <card number="1" name="You Find the Villains' Lair"/>
         <card number="1" name="Windfall"/>
         <card number="1" name="Glint-Horn Buccaneer"/>
@@ -29,26 +29,22 @@
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Fateful Showdown"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
-        <card number="1" name="Wheel of Misfortune"/>
         <card number="1" name="The Locust God"/>
         <card number="1" name="Thassa's Oracle"/>
         <card number="1" name="Goblin Electromancer"/>
         <card number="1" name="Magus of the Wheel"/>
         <card number="1" name="Baral, Chief of Compliance"/>
-        <card number="1" name="Lion's Eye Diamond"/>
         <card number="1" name="Snapcaster Mage"/>
         <card number="1" name="Swan Song"/>
         <card number="1" name="Mystical Tutor"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Pongify"/>
         <card number="1" name="Muddle the Mixture"/>
-        <card number="1" name="Deflecting Swat"/>
         <card number="1" name="Red Elemental Blast"/>
         <card number="1" name="Pyroblast"/>
         <card number="1" name="Mana Drain"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Dangerous Wager"/>
         <card number="1" name="Thirst for Knowledge"/>
         <card number="1" name="Dig Through Time"/>
         <card number="1" name="Fierce Guardianship"/>
@@ -64,7 +60,6 @@
         <card number="1" name="Dramatic Reversal"/>
         <card number="1" name="Isochron Scepter"/>
         <card number="1" name="Treasure Cruise"/>
-        <card number="1" name="Distortion Strike"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Polluted Delta"/>
@@ -95,5 +90,8 @@
         <card number="1" name="Shivan Reef"/>
         <card number="1" name="Fiery Islet"/>
         <card number="1" name="Blood Moon"/>
+        <card number="1" name="Shadow Rift"/>
+        <card number="1" name="Prismari Command"/>
+        <card number="1" name="Dack Fayden"/>
     </zone>
 </cockatrice_deck>
