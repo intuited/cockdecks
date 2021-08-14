@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="side">
         <card number="1" name="Rielle, the Everwise"/>
-        <card number="1" name="Dangerous Wager"/>
     </zone>
     <zone name="main">
         <card number="1" name="Sorcerer Class"/>
@@ -55,7 +54,6 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Gamble"/>
-        <card number="1" name="Crimson Wisps"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Dramatic Reversal"/>
         <card number="1" name="Isochron Scepter"/>
@@ -93,5 +91,6 @@
         <card number="1" name="Shadow Rift"/>
         <card number="1" name="Prismari Command"/>
         <card number="1" name="Dack Fayden"/>
+        <card number="1" name="Cursed Totem"/>
     </zone>
 </cockatrice_deck>
