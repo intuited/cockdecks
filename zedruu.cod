@@ -69,37 +69,36 @@
         <card number="1" name="Tezzeret the Seeker"/>
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Enlightened Tutor"/>
-        <card number="1" name="Izzet Guildgate"/>
-        <card number="1" name="Ash Barrens"/>
         <card number="1" name="Fabled Passage"/>
         <card number="1" name="Homeward Path"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Boros Guildgate"/>
         <card number="1" name="City of Brass"/>
         <card number="1" name="Mystic Monastery"/>
         <card number="1" name="Contested War Zone"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Azorius Chancery"/>
         <card number="1" name="Forbidden Orchard"/>
         <card number="1" name="Glacial Fortress"/>
-        <card number="1" name="Swiftwater Cliffs"/>
-        <card number="1" name="Highland Lake"/>
-        <card number="1" name="Shivan Reef"/>
-        <card number="1" name="Izzet Boilerworks"/>
         <card number="1" name="Tolaria West"/>
-        <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Tranquil Cove"/>
-        <card number="1" name="Wind-Scarred Crag"/>
         <card number="1" name="Thespian's Stage"/>
-        <card number="1" name="Battlefield Forge"/>
-        <card number="1" name="Adarkar Wastes"/>
-        <card number="1" name="Sejiri Refuge"/>
         <card number="1" name="Rainbow Vale"/>
         <card number="2" name="Plains"/>
         <card number="2" name="Mountain"/>
-        <card number="1" name="Island"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Flood Plain"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Sacred Foundry"/>
     </zone>
     <zone name="side">
         <card number="1" name="Zedruu the Greathearted"/>
