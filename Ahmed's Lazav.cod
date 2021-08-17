@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Black Sun's Zenith"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Cabal Ritual"/>
+        <card number="1" name="Careful Study"/>
+        <card number="1" name="Cephalid Illusionist"/>
+        <card number="1" name="Chain of Vapor"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Counterspell (e)"/>
+        <card number="1" name="Countersquall"/>
+        <card number="1" name="Creeping Tar Pit"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Dark Deal"/>
+        <card number="1" name="Dark Ritual (e)"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Dramatic Reversal"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Dreadship Reef"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Duskmantle Guildmage"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fatal Push"/>
+        <card number="1" name="Foil"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Hapless Researcher"/>
+        <card number="1" name="High Tide (b)"/>
+        <card number="1" name="Island (b)"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Jace's Archivist"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lonely Sandbar"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Maralen of the Mornsong"/>
+        <card number="1" name="Mausoleum Secrets"/>
+        <card number="1" name="Mental Misstep"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Mission Briefing"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Narcomoeba"/>
+        <card number="1" name="Necromancy"/>
+        <card number="1" name="Necrotic Ooze"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Seat of the Synod"/>
+        <card number="1" name="Snap"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spellseeker"/>
+        <card number="7" name="Swamp (a)"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Training Grounds"/>
+        <card number="1" name="Trickbind"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Vault of Whispers"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Voltaic Key"/>
+        <card number="1" name="Windfall"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Lazav, the Multifarious"/>
+    </zone>
+</cockatrice_deck>
