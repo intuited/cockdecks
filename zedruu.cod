@@ -12,7 +12,6 @@
         <card number="1" name="Legerdemain"/>
         <card number="1" name="Steel Golem"/>
         <card number="1" name="Treasure Nabber"/>
-        <card number="1" name="Goblin Cadets"/>
         <card number="1" name="Trinket Mage"/>
         <card number="1" name="Word of Seizing"/>
         <card number="1" name="Mark of Eviction"/>
@@ -20,18 +19,15 @@
         <card number="1" name="Gamble"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Toothy, Imaginary Friend"/>
-        <card number="1" name="Thieves' Auction"/>
         <card number="1" name="Paradox Haze"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Exclusion Mage"/>
         <card number="1" name="Coveted Jewel"/>
         <card number="1" name="Role Reversal"/>
         <card number="1" name="Land Tax"/>
         <card number="1" name="Expedition Map"/>
         <card number="1" name="Tradewind Rider"/>
         <card number="1" name="Perplexing Chimera"/>
-        <card number="1" name="Pramikon, Sky Rampart"/>
         <card number="1" name="Djeru, With Eyes Open"/>
         <card number="1" name="Statecraft"/>
         <card number="1" name="Venser, the Sojourner"/>
@@ -41,8 +37,6 @@
         <card number="1" name="Agent of Treachery"/>
         <card number="1" name="Starke of Rath"/>
         <card number="1" name="Ignite the Beacon"/>
-        <card number="1" name="Pyromancer's Swath"/>
-        <card number="1" name="Djinn of Infinite Deceits"/>
         <card number="1" name="Dominus of Fealty"/>
         <card number="1" name="Elixir of Immortality"/>
         <card number="1" name="Wipe Away"/>
@@ -54,7 +48,6 @@
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Venser's Journal"/>
         <card number="1" name="Dizzy Spell"/>
-        <card number="1" name="Confusion in the Ranks"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Oblation"/>
         <card number="1" name="Reins of Power"/>
@@ -99,6 +92,13 @@
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Mana Confluence"/>
         <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Wizard Class"/>
+        <card number="1" name="Silence"/>
     </zone>
     <zone name="side">
         <card number="1" name="Zedruu the Greathearted"/>
