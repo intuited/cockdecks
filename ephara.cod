@@ -3,7 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Blind Obedience"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Fumigate"/>
@@ -25,26 +24,19 @@
         <card number="1" name="Muddle the Mixture"/>
         <card number="1" name="Planar Collapse"/>
         <card number="1" name="Myth Realized"/>
-        <card number="1" name="Fieldmist Borderpost"/>
         <card number="1" name="Telepathy"/>
         <card number="1" name="Aura of Silence"/>
         <card number="1" name="Render Silent"/>
         <card number="1" name="Luminarch Ascension"/>
         <card number="1" name="Porphyry Nodes"/>
-        <card number="1" name="Legion's Landing"/>
         <card number="1" name="Plumeveil"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Lilting Refrain"/>
         <card number="1" name="Land Tax"/>
-        <card number="1" name="Shield of the Righteous"/>
         <card number="1" name="Merfolk Trickster"/>
-        <card number="1" name="Reparations"/>
-        <card number="1" name="Village Bell-Ringer"/>
         <card number="1" name="Rebuff the Wicked"/>
         <card number="1" name="Thought Vessel"/>
-        <card number="1" name="Stunt Double"/>
         <card number="1" name="Snapcaster Mage"/>
-        <card number="1" name="Ever-Watching Threshold"/>
         <card number="1" name="Rout"/>
         <card number="1" name="Kefnet the Mindful"/>
         <card number="1" name="Arcane Signet"/>
@@ -86,8 +78,16 @@
         <card number="1" name="Niambi, Esteemed Speaker"/>
         <card number="1" name="Spell Queller"/>
         <card number="1" name="Deafening Silence"/>
-        <card number="1" name="Paladin Class"/>
         <card number="1" name="Wizard Class"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Seal of Removal"/>
+        <card number="1" name="Counterbalance"/>
+        <card number="1" name="Stony Silence"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Grasp of Fate"/>
+        <card number="1" name="Search for Azcanta"/>
+        <card number="1" name="Inheritance"/>
+        <card number="1" name="Mana Drain"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ephara, God of the Polis"/>
