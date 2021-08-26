@@ -37,9 +37,6 @@
         <card number="1" name="Dwarven Recruiter"/>
         <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" name="Helm of the Host"/>
-        <card number="1" name="Needle Drop"/>
-        <card number="1" name="Avacyn's Judgment"/>
-        <card number="1" name="Violent Eruption"/>
         <card number="1" name="Electrodominance"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Wild Ricochet"/>
@@ -60,17 +57,21 @@
         <card number="1" name="Red Elemental Blast"/>
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Faithless Salvaging"/>
-        <card number="1" name="Spark Spray"/>
-        <card number="1" name="Academic Dispute"/>
-        <card number="1" name="Expedite"/>
         <card number="1" name="Ignorant Bliss"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Geier Reach Sanitarium"/>
         <card number="1" name="Mikokoro, Center of the Sea"/>
         <card number="1" name="War Room"/>
         <card number="1" name="Winds of Change"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Blood Moon"/>
+        <card number="1" name="Fiery Emancipation"/>
+        <card number="1" name="Merchant of the Vale // Haggle"/>
+        <card number="1" name="Revolutionist"/>
+        <card number="1" name="Anger"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Magda, Brazen Outlaw"/>
+        <card number="1" name="Academic Dispute"/>
     </zone>
 </cockatrice_deck>
