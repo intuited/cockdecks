@@ -9,13 +9,11 @@
         <card number="1" name="Mana Echoes"/>
         <card number="1" name="Gauntlet of Might"/>
         <card number="1" name="Extraplanar Lens"/>
-        <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Runaway Steam-Kin"/>
         <card number="1" name="Wheel of Misfortune"/>
         <card number="1" name="Wheel of Fate"/>
         <card number="1" name="Chandra, Flamecaller"/>
-        <card number="1" name="Anje's Ravager"/>
         <card number="1" name="Magus of the Wheel"/>
         <card number="1" name="Wheel of Fortune"/>
         <card number="1" name="Neheb, Dreadhorde Champion"/>
@@ -27,7 +25,6 @@
         <card number="1" name="Hazoret the Fervent"/>
         <card number="1" name="Firestorm"/>
         <card number="1" name="Glint-Horn Buccaneer"/>
-        <card number="1" name="Bag of Holding"/>
         <card number="1" name="Mirror March"/>
         <card number="1" name="Kindred Charge"/>
         <card number="7" name="Seven Dwarves"/>
@@ -45,33 +42,46 @@
         <card number="1" name="Crash Through"/>
         <card number="1" name="Purphoros, God of the Forge"/>
         <card number="1" name="Impact Tremors"/>
-        <card number="1" name="Elixir of Immortality"/>
         <card number="1" name="Dwarven Mine"/>
         <card number="1" name="Castle Embereth"/>
         <card number="1" name="Nykthos, Shrine to Nyx"/>
-        <card number="28" name="Mountain"/>
+        <card number="17" name="Mountain"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Faithless Looting"/>
         <card number="1" name="Underworld Breach"/>
         <card number="1" name="Ruby Medallion"/>
         <card number="1" name="Red Elemental Blast"/>
         <card number="1" name="Thrill of Possibility"/>
-        <card number="1" name="Faithless Salvaging"/>
         <card number="1" name="Ignorant Bliss"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Geier Reach Sanitarium"/>
         <card number="1" name="Mikokoro, Center of the Sea"/>
         <card number="1" name="War Room"/>
-        <card number="1" name="Winds of Change"/>
-        <card number="1" name="Torbran, Thane of Red Fell"/>
-        <card number="1" name="Blood Moon"/>
-        <card number="1" name="Fiery Emancipation"/>
-        <card number="1" name="Merchant of the Vale // Haggle"/>
         <card number="1" name="Revolutionist"/>
         <card number="1" name="Anger"/>
+        <card number="1" name="Magda, Brazen Outlaw"/>
+        <card number="1" name="Hofri Ghostforge"/>
+        <card number="1" name="Duergar Hedge-Mage"/>
+        <card number="1" name="Sky Skiff"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Heart of Kiran"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Bomat Bazaar Barge"/>
+        <card number="1" name="Radiant Scrollwielder"/>
+        <card number="1" name="Bag of Holding"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Alpine Meadow"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Plains"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Magda, Brazen Outlaw"/>
-        <card number="1" name="Academic Dispute"/>
+        <card number="1" name="Depala, Pilot Exemplar"/>
     </zone>
 </cockatrice_deck>
